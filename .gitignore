@@ -1,0 +1,10 @@
+## Java
+/target/
+*.log
+
+## Node
+/frontend/node_modules/
+
+## IDEs
+/.idea/
+.vscode/
